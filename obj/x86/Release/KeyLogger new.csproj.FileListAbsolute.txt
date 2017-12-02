@@ -1,0 +1,14 @@
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Release\Explorer.exe
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Release\Explorer.pdb
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\KeyLogger_new.Edit_commands.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\KeyLogger_new.Form1.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\KeyLogger_new.image_info.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\KeyLogger_new.info.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\KeyLogger_new.new_process.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\KeyLogger_new.Program_info.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\KeyLogger_new.Properties.Resources.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\Explorer.exe
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Release\Explorer.pdb

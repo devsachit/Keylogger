@@ -1,0 +1,58 @@
+C:\Users\nb\documents\visual studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nb\documents\visual studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Properties.Resources.resources
+C:\Users\nb\documents\visual studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nb\documents\visual studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nb\documents\visual studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Form1.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Edit_commands.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.image_info.resources
+C:\Users\nb\documents\visual studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Program_info.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.exe
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.pdb
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.exe
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.pdb
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.new_process.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.info.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.logfiles.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.guess_words.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.exe.manifest
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.application
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.exe.manifest
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.application
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Listofprocess.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\size and location DLL MAIN NEW.dll
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\size and location DLL MAIN NEW.pdb
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.display_pressed_key.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\Email (dll).dll
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\Email (dll).pdb
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.exe.config
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Help.resources
+C:\Users\nb\Documents\Visual Studio 2010\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.hideinfo.resources
+D:\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.exe.config
+D:\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.exe
+D:\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.pdb
+D:\C#  World\Visual Studio 2010\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.exe.config
+D:\C#  World\Visual Studio 2010\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.exe
+D:\C#  World\Visual Studio 2010\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.pdb
+D:\2. C#\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\bin\Debug\Explorer.exe.config
+D:\2. C#\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.exe
+D:\2. C#\LAPTOP PROJECTS\Projects\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.pdb
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger new.csprojResolveAssemblyReference.cache
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.display_pressed_key.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Edit_commands.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Form1.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.guess_words.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Help.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.hideinfo.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.image_info.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.info.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Listofprocess.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.logfiles.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.new_process.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Program_info.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger_new.Properties.Resources.resources
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger new.csproj.GenerateResource.Cache
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\KeyLogger new.csproj.CoreCompileInputs.cache
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.exe
+D:\2. C#\LAPTOP PROJECTS\Projects\KEYLOGGER\KeyLogger new\KeyLogger new\obj\x86\Debug\Explorer.pdb

